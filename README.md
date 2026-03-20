@@ -13,7 +13,7 @@ The UI is deliberately retro. Chunky pixel borders. Neon cyan accents. A midnigh
 
 ---
 
-![DrawScript Screenshot](screenshot.png)
+<img width="1356" height="790" alt="screenshot" src="https://github.com/user-attachments/assets/d4bb8370-377e-46af-8c67-c0b345141467" />
 
 ---
 
