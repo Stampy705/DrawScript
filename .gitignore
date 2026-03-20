@@ -1,0 +1,28 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# IDEs & editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# DrawScript exports — keep the repo clean, don't commit generated output
+*.html
+index.html
+
+# PyInstaller builds
+build/
+dist/
+*.spec
