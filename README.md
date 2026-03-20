@@ -13,7 +13,8 @@ The UI is deliberately retro. Chunky pixel borders. Neon cyan accents. A midnigh
 
 ---
 
-<img width="1356" height="790" alt="screenshot" src="https://github.com/user-attachments/assets/d4bb8370-377e-46af-8c67-c0b345141467" />
+<img width="1359" height="774" alt="Screenshot 2026-03-21 022927" src="https://github.com/user-attachments/assets/85e889b5-7750-4aef-a2ca-0e40a8e68ce7" />
+
 
 ---
 
