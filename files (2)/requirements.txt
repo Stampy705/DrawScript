@@ -1,4 +1,0 @@
-# DrawScript v2.0 Beta Dependencies
-# Install via: pip install -r requirements.txt
-
-PyQt6>=6.4.0
