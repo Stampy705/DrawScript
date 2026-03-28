@@ -412,11 +412,6 @@ We welcome contributions! Here's how to help:
 
 ---
 
-## 📝 License
-
-DrawScript is released under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
 
 ## 🎨 The Evolution: "drawscript > drawscript > 2"
 
@@ -447,11 +442,17 @@ DrawScript builds on:
 
 ---
 
+## 📝 License
+
+MIT — do whatever you want with it.
+
+---
+
 <div align="center">
 
 **Built with ❤️ and a lot of vector math**  
 *Bridging freehand creativity and production-ready code.*
 
-[⭐ Star us on GitHub](https://github.com/Stampy705/DrawScript) | [📥 Download v2.0 Beta](https://github.com/Stampy705/DrawScript/releases) | [🐛 Report Issues](https://github.com/Stampy705/DrawScript/issues) | [💬 Discuss](https://github.com/Stampy705/DrawScript/discussions)
+[⭐ Star us on GitHub](https://github.com/Stampy705/DrawScript) | [🐛 Report Issues](https://github.com/Stampy705/DrawScript/issues) | [💬 Discuss](https://github.com/Stampy705/DrawScript/discussions)
 
 </div>
