@@ -428,7 +428,6 @@ This project has grown from a simple box-drawing tool into a **vector art engine
 
 - **Report Issues**: [GitHub Issues](https://github.com/Stampy705/DrawScript/issues)
 - **Feature Requests**: [GitHub Discussions](https://github.com/Stampy705/DrawScript/discussions)
-- **Email**: drawscript@example.com
 
 ---
 
